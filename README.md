@@ -11,3 +11,13 @@ $ composer require --dev phpunit/phpunit ^4
 ```
 $ vendor/phpunit/phpunit/phpunit ./tests
 ```
+Should work just like this ;)
+```
+PHPUnit 4.8.36 by Sebastian Bergmann and contributors.
+
+.
+
+Time: 329 ms, Memory: 7.00MB
+
+OK (1 test, 1 assertion)
+```
